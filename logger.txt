@@ -404,3 +404,157 @@ Sprockets::FileNotFound: couldn't find file 'jquery-ui'
 Served asset /admin/all.js - 500 Internal Server Error
 
 
+Served asset /rails.png - 404 Not Found (82ms)
+Compiled pages/all.css  (9740ms)  (pid 4028)
+Served asset /pages/all.css - 200 OK (10254ms)
+Compiled modernizr-2.6.2.min.js  (2ms)  (pid 4028)
+Served asset /modernizr-2.6.2.min.js - 200 OK (336ms)
+Compiled jquery_ujs.js  (2ms)  (pid 4028)
+Compiled bootstrap/affix.js  (2ms)  (pid 4028)
+Compiled bootstrap/alert.js  (2ms)  (pid 4028)
+Compiled bootstrap/button.js  (2ms)  (pid 4028)
+Compiled bootstrap/carousel.js  (2ms)  (pid 4028)
+Compiled bootstrap/collapse.js  (2ms)  (pid 4028)
+Compiled bootstrap/dropdown.js  (1ms)  (pid 4028)
+Compiled bootstrap/tab.js  (3ms)  (pid 4028)
+Compiled bootstrap/transition.js  (1ms)  (pid 4028)
+Compiled bootstrap/scrollspy.js  (137ms)  (pid 4028)
+Compiled bootstrap/modal.js  (2ms)  (pid 4028)
+Compiled bootstrap/tooltip.js  (1ms)  (pid 4028)
+Compiled bootstrap/popover.js  (2ms)  (pid 4028)
+Compiled bootstrap.js  (1901ms)  (pid 4028)
+Compiled pages/custom.js  (1ms)  (pid 4028)
+Compiled pages/all.js  (2323ms)  (pid 4028)
+Served asset /pages/all.js - 200 OK (2704ms)
+Served asset /pages/navbar-bg.png - 200 OK (185ms)
+Compiled sign_in.js  (19ms)  (pid 4028)
+Served asset /sign_in.js - 200 OK (356ms)
+Compiled sign_in.css  (339ms)  (pid 4028)
+Served asset /sign_in.css - 200 OK (473ms)
+Served asset /sign_in/button.png - 200 OK (80ms)
+Served asset /sign_in/input.png - 200 OK (98ms)
+Served asset /sign_in/error_icon.png - 200 OK (203ms)
+Served asset /pages/all.css - 304 Not Modified (15ms)
+Served asset /modernizr-2.6.2.min.js - 304 Not Modified (0ms)
+Served asset /pages/all.js - 304 Not Modified (3ms)
+Served asset /pages/navbar-bg.png - 304 Not Modified (1ms)
+Served asset /sign_in.js - 304 Not Modified (0ms)
+Served asset /sign_in.css - 304 Not Modified (1ms)
+Served asset /modernizr-2.6.2.min.js - 304 Not Modified (0ms)
+Served asset /sign_in/input.png - 304 Not Modified (1ms)
+Served asset /sign_in/button.png - 304 Not Modified (0ms)
+Served asset /modernizr-2.6.2.min.js - 304 Not Modified (0ms)
+Compiled admin/all.css  (14861ms)  (pid 4028)
+Served asset /admin/all.css - 200 OK (15184ms)
+Error compiling asset admin/all.js:
+Sprockets::FileNotFound: couldn't find file 'jquery-ui'
+  (in C:/RubyCMS Project/CMSCustom/app/assets/javascripts/admin/all.js:1)
+Served asset /admin/all.js - 500 Internal Server Error
+
+
+Served asset /admin/header_bg.png - 200 OK (110ms)
+Served asset /admin/admin_panel.png - 200 OK (98ms)
+Served asset /admin/btn_view_site.png - 200 OK (121ms)
+Served asset /admin/secondary_bar.png - 200 OK (206ms)
+Served asset /admin/secondary_bar_shadow.png - 200 OK (68ms)
+Served asset /admin/header_bar.png - 200 OK (69ms)
+Served asset /admin/breadcrumb_divider.png - 200 OK (187ms)
+Served asset /admin/sidebar_bg.jpg - 200 OK (88ms)
+Served asset /admin/sidebar_gradienttop.png - 200 OK (79ms)
+Served asset /admin/menu_li_bg.png - 200 OK (184ms)
+Served asset /admin/sidebar_divider.png - 200 OK (69ms)
+Served asset /modernizr-2.6.2.min.js - 304 Not Modified (0ms)
+Error compiling asset admin/all.js:
+Sprockets::FileNotFound: couldn't find file 'jquery-ui'
+  (in C:/RubyCMS Project/CMSCustom/app/assets/javascripts/admin/all.js:1)
+Served asset /admin/all.js - 500 Internal Server Error
+
+
+Served asset /modernizr-2.6.2.min.js - 304 Not Modified (0ms)
+Error compiling asset admin/all.js:
+Sprockets::FileNotFound: couldn't find file 'jquery-ui'
+  (in C:/RubyCMS Project/CMSCustom/app/assets/javascripts/admin/all.js:1)
+Served asset /admin/all.js - 500 Internal Server Error
+
+
+Served asset /admin/module_footer_bg.png - 200 OK (90ms)
+Served asset /modernizr-2.6.2.min.js - 304 Not Modified (0ms)
+Error compiling asset admin/all.js:
+Sprockets::FileNotFound: couldn't find file 'jquery-ui'
+  (in C:/RubyCMS Project/CMSCustom/app/assets/javascripts/admin/all.js:1)
+Served asset /admin/all.js - 500 Internal Server Error
+
+
+Error compiling asset admin/all.js:
+Sprockets::FileNotFound: couldn't find file 'jquery-ui'
+  (in C:/RubyCMS Project/CMSCustom/app/assets/javascripts/admin/all.js:1)
+Served asset /admin/all.js - 500 Internal Server Error
+
+
+Served asset /modernizr-2.6.2.min.js - 304 Not Modified (0ms)
+Served asset /modernizr-2.6.2.min.js - 304 Not Modified (0ms)
+Error compiling asset admin/all.js:
+Sprockets::FileNotFound: couldn't find file 'jquery-ui'
+  (in C:/RubyCMS Project/CMSCustom/app/assets/javascripts/admin/all.js:1)
+Served asset /admin/all.js - 500 Internal Server Error
+
+
+Error compiling asset admin/all.js:
+Sprockets::FileNotFound: couldn't find file 'jquery-ui'
+  (in C:/RubyCMS Project/CMSCustom/app/assets/javascripts/admin/all.js:1)
+Served asset /admin/all.js - 500 Internal Server Error
+
+
+Served asset /modernizr-2.6.2.min.js - 304 Not Modified (0ms)
+Served asset /modernizr-2.6.2.min.js - 304 Not Modified (0ms)
+Error compiling asset admin/all.js:
+Sprockets::FileNotFound: couldn't find file 'jquery-ui'
+  (in C:/RubyCMS Project/CMSCustom/app/assets/javascripts/admin/all.js:1)
+Served asset /admin/all.js - 500 Internal Server Error
+
+
+Error compiling asset admin/all.js:
+Sprockets::FileNotFound: couldn't find file 'jquery-ui'
+  (in C:/RubyCMS Project/CMSCustom/app/assets/javascripts/admin/all.js:1)
+Served asset /admin/all.js - 500 Internal Server Error
+
+
+Served asset /modernizr-2.6.2.min.js - 304 Not Modified (1ms)
+Served asset /modernizr-2.6.2.min.js - 304 Not Modified (1ms)
+Error compiling asset admin/all.js:
+Sprockets::FileNotFound: couldn't find file 'jquery-ui'
+  (in C:/RubyCMS Project/CMSCustom/app/assets/javascripts/admin/all.js:1)
+Served asset /admin/all.js - 500 Internal Server Error
+
+
+Error compiling asset admin/all.js:
+Sprockets::FileNotFound: couldn't find file 'jquery-ui'
+  (in C:/RubyCMS Project/CMSCustom/app/assets/javascripts/admin/all.js:1)
+Served asset /admin/all.js - 500 Internal Server Error
+
+
+Served asset /modernizr-2.6.2.min.js - 304 Not Modified (0ms)
+Error compiling asset admin/all.js:
+Sprockets::FileNotFound: couldn't find file 'jquery-ui'
+  (in C:/RubyCMS Project/CMSCustom/app/assets/javascripts/admin/all.js:1)
+Served asset /admin/all.js - 500 Internal Server Error
+
+
+Served asset /modernizr-2.6.2.min.js - 304 Not Modified (0ms)
+Served asset /modernizr-2.6.2.min.js - 304 Not Modified (0ms)
+Error compiling asset admin/all.js:
+Sprockets::FileNotFound: couldn't find file 'jquery-ui'
+  (in C:/RubyCMS Project/CMSCustom/app/assets/javascripts/admin/all.js:1)
+Served asset /admin/all.js - 500 Internal Server Error
+
+
+Error compiling asset admin/all.js:
+Sprockets::FileNotFound: couldn't find file 'jquery-ui'
+  (in C:/RubyCMS Project/CMSCustom/app/assets/javascripts/admin/all.js:1)
+Served asset /admin/all.js - 500 Internal Server Error
+
+
+Served asset /modernizr-2.6.2.min.js - 304 Not Modified (0ms)
+Served asset /pages/all.css - 304 Not Modified (10ms)
+Served asset /modernizr-2.6.2.min.js - 304 Not Modified (0ms)
+Served asset /pages/all.js - 304 Not Modified (5ms)
